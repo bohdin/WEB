@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fixed table</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table>
+        <tr class="yellow">
+            <td colspan="2">
+                <table class="white">
+                    <td></td>
+                </table>
+            </td>
+            <td>
+                <p>1</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="blue">
+                <p>2</p>
+            </td>
+            <td>
+                <table class="inwhite">
+                    <tr class="mid">
+                        <td>
+                            <p>3</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="red"></td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table class="inblue">
+                    <td>
+                        <p>4</p>
+                    </td>
+                </table>
+            </td>
+        </tr>
+        <tr class="yellow">
+            <td colspan="3">
+                <p style="text-align: left; margin-left: 10px;">5</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

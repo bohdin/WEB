@@ -1,0 +1,114 @@
+<body>
+    <div class="header">
+        <div class="header-left">
+            <img src="image/шапка/іконка.png" alt="Book">
+            <h2>Мій клас</h2>
+        </div>
+        <div class="header-right">
+            <a href="#" style="background-color: #1790FF;">
+                <img src="image/шапка/реєстр.png" alt="Ups">
+                <span>Реєстрація</span>
+            </a>
+            <a href="#" style="background-color: #1171CA;">
+                <img src="image/шапка/вхід.png" alt="Ups">
+                <span>Вхід</span>
+            </a>
+        </div>
+    </div>
+
+
+    <div class="outside">
+        <div class="inside">
+            <h1>Електроний<br>
+                Освітній Ресурс</h1>
+            <div class="line"></div>
+            <p>Електронна освітня система «МійКлас» — <br>
+                це ресурс, що економить час вчителю та <br>
+                робить навчання школярів більш цікавим.</p>
+        </div>
+        <img src="image/1 блок/дівка.png" alt="Ups">
+    </div>
+
+
+    <div class="block2">
+        <div>
+            <img src="image/2 блок/легкий початок.png">
+            <h2>ЛЕГКИЙ ПОЧАТОК</h2>
+            <p>Безкоштовна платформа<br>
+               «МійКлас» працює на<br> 
+               будь-якому пристрої,<br> 
+               з'єднаному з Інтернетом</p>
+        </div>
+        <div>
+            <img src="image/2 блок/готві завдання.png">
+            <h2>ГОТОВІ ЗАВДАННЯ</h2>
+            <p>Готові завдання з різних<br>
+               предметів та теорія до <br>
+               них для дистанційного <br>
+               навчання</p>
+        </div>
+        <div>
+            <img src="image/2 блок/мотивація.png">
+            <h2>МОТИВУЄ УЧНІВ</h2>
+            <p>Виконуючи завдання, <br>
+               учні змагаються зі <br>
+               своїми однокласниками <br>
+               та учнями інших класів.</p>
+        </div>
+    </div>
+    
+
+    <div class="block3">
+        <h1>Електроний<br>
+            Освітній Ресурс</h1>
+        <div class="line" style="margin-left: auto; margin-right: auto;"></div>
+        <p>Електронна освітня система «МійКлас» — <br>
+            це ресурс, що економить час вчителю та <br>
+            робить навчання школярів більш цікавим.</p>
+    </div>
+    
+
+    <img src="image/3 блок/Пряма.png" id="photo1">
+
+
+    <div class="block4">
+        <div>
+            <img src="image/3 блок/1 карти.PNG">
+            <p>Школяр вирішує<br>
+               завдання з певного <br>
+               предмета.</p>
+        </div>
+        <div>
+            <img src="image/3 блок/2 карти.PNG">
+            <p>Якщо учень <br>
+               помиляється, МійКлас <br>
+               пояснює розв'язання <br>
+               задачі</p>
+        </div>
+        <div>
+            <img src="image/3 блок/3 карти.PNG">
+            <p>Якщо учень <br>
+               перезапускає завдання, <br>
+               МійКлас генерує інше <br>
+               завдання, щоб школяр <br>
+               застосував отримані <br>
+               знання.</p>
+        </div>
+    </div>
+
+
+    <div class="bottomer">
+        <div class="header-left">
+            <img src="image/шапка/іконка.png" alt="Book">
+            <h2>Мій клас</h2>
+        </div>
+        <div class="header-right">
+                <a href="#">Про нас</a>
+                <a href="#">Контакти</a>
+                <a href="#">Відправити відгук</a>
+                <a href="#">Кабінет</a>
+                <a href="#">Предмети</a>
+                <a href="#">Результати учнів</a>
+        </div>
+    </div>
+</body>

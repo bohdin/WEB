@@ -1,0 +1,58 @@
+table{
+    border: 1px solid black;
+    width: 55%;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+p{
+    font-weight: bolder;
+    text-align: center;
+}
+
+.white_block{
+    background-color:white;
+    height: 50%;
+    margin: 10px; 
+}
+
+tr.top>td{
+    height: 100px;
+    background-color: yellow;
+    border: 0px;
+}
+
+tr{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td.blue{
+    background-color: blue;
+    width: 30%;
+}
+
+table.rightblue{
+    background-color: blue;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+}
+
+.buttom_top{
+    background-color: yellow;
+    height: 100px;
+}
+
+.red_block{
+    background-color: red;
+    height: 10%;
+}
+
+table.inside{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+}

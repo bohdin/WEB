@@ -1,0 +1,52 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 750px;
+    height: 1000px;
+    margin: 100px 250px;
+}
+tr{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+td{
+    font-size: larger;
+    font-weight: bold;
+}
+p{
+    text-align: center; 
+}
+tr.yellow{
+    background-color: yellow;
+    width: 600px;
+    height: 100px;
+}
+table.white{
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    margin: 10px 10px 10px;
+}
+td.blue{
+    background-color: blue;
+    width: 200px;
+    height: 800px;
+}
+table.inwhite{
+    width: 200px;
+    height: 740px;
+    margin: 30px;
+}
+td.mid{
+    height: 400px;
+}
+td.red{
+    background-color: red;
+    height: 100px;
+}
+table.inblue{
+    background-color: blue;
+    width: 200px;
+    height: 740px;
+    margin: 30px;
+}

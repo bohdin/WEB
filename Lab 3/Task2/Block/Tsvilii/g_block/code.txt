@@ -1,0 +1,23 @@
+<body>
+    <div class="main">
+        <div class="yellow">
+            <div class="white"></div>
+            <p style="margin-left: 35%;">1</p>
+        </div>
+        <div class="mid">
+            <div class="blue">
+                <p style="margin-top: 100%;">2</p>
+            </div>
+            <div class="inside">
+                <p style="text-align: center; margin-top: 100%;">3</p>
+                <div class="red"></div>
+            </div>
+            <div class="inside_2">
+                <p style="text-align: center; margin-top: 100%;">4</p>
+            </div>
+        </div>
+        <div class="yellow">
+            <p style="margin-right: 90%;">5</p>
+        </div>
+    </div>
+</body>
